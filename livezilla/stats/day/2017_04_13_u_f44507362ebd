@@ -1,0 +1,134 @@
+<br><br>
+<table cellpadding="0" cellspacing="0" align="center" width="900">
+	<tr>
+		<td>
+			<table cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="header_line"><!--lang_stats_visitors--></td>
+					<td class="header_line" align="right"><script>document.write(new Date(2017,3,13,0, 00, 00, 0).toLocaleDateString());</script></td>
+				</tr>
+				<tr>
+					<td class="header_nav_line">&nbsp;&nbsp;1 <!--lang_stats_visitors--> (<em>unique</em>)</td>
+					<td class="header_nav_line" align="right">Status:&nbsp;&nbsp;<!--lang_stats_status_closed-->&nbsp;</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="2" width="100%">
+				<tr>
+					<td class="bt_column_header" width="40" align="center"><!--lang_stats_pages--></td>
+					<td class="bt_column_header" width="60" align="center"><!--lang_stats_entrance--></td>
+					<td class="bt_column_header" width="60" align="center"><!--lang_stats_exit--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_country--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_city--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_browser--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_system--></td>
+					<td class="bt_column_header" width="25">&nbsp;</td>
+				</tr>
+				<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_1');"><b>11</b></a></td>
+    <td align="center">12:25:55</td>
+    <td align="center">16:56:52</td>
+    <td NOWRAP>Italy</td>
+    <td NOWRAP>Agugliaro</td>
+    <td NOWRAP>FireFox 52</td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('Dadeh Gostar Asr Novin P.j.s. Co.','33','1','::1','DESKTOP-DAMT56V','b7f26c926e',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_11">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">12:26:53</td>
+		<td colspan="5">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/rahatfood/public/login" target="_blank"><b>http://localhost/rahatfood/public/login</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_12">
+		<td align="center">1</td>
+		<td align="center">12:26:53</td>
+		<td align="center">12:28:05</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/rahatfood/public/" target="_blank"><b>http://localhost/rahatfood/public/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_13">
+		<td align="center">2</td>
+		<td align="center">12:28:05</td>
+		<td align="center">12:26:49</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/rahatfood/public/" target="_blank"><b>http://localhost/rahatfood/public/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_14">
+		<td align="center">3</td>
+		<td align="center">12:26:49</td>
+		<td align="center">12:28:00</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/rahatfood/public/login" target="_blank"><b>http://localhost/rahatfood/public/login</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_15">
+		<td align="center">4</td>
+		<td align="center">12:28:00</td>
+		<td align="center">12:25:55</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/rahatfood/public/login" target="_blank"><b>http://localhost/rahatfood/public/login</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_16">
+		<td align="center">5</td>
+		<td align="center">12:25:55</td>
+		<td align="center">12:28:05</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/rahatfood/public/" target="_blank"><b>http://localhost/rahatfood/public/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_17">
+		<td align="center">6</td>
+		<td align="center">16:59:35</td>
+		<td align="center">17:03:52</td>
+		<td colspan="5"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/rahatfood/public/area/Madani-Blvd/%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%D9%85%D8%AF%D9%86%DB%8C" target="_blank"><b>http://localhost/rahatfood/public/area/Madani-Blvd/%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%D9%85%D8%AF%D9%86%DB%8C</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_18">
+		<td align="center">7</td>
+		<td align="center">17:03:52</td>
+		<td align="center">16:59:41</td>
+		<td colspan="5"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/rahatfood/public/area/Madani-Blvd/%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%D9%85%D8%AF%D9%86%DB%8C" target="_blank"><b>http://localhost/rahatfood/public/area/Madani-Blvd/%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%D9%85%D8%AF%D9%86%DB%8C</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_19">
+		<td align="center">8</td>
+		<td align="center">16:59:41</td>
+		<td align="center">16:56:53</td>
+		<td colspan="5"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/rahatfood/public/area/Madani-Blvd/restaurant/Deljin/%D8%AF%D9%84%DA%98%DB%8C%D9%86" target="_blank"><b>http://localhost/rahatfood/public/area/Madani-Blvd/restaurant/Deljin/%D8%AF%D9%84%DA%98%DB%8C%D9%86</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_110">
+		<td align="center">9</td>
+		<td align="center">16:56:53</td>
+		<td align="center">17:03:53</td>
+		<td colspan="5"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/rahatfood/public/" target="_blank"><b>http://localhost/rahatfood/public/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_111">
+		<td align="center">10</td>
+		<td align="center">17:03:53</td>
+		<td align="center">17:03:53</td>
+		<td colspan="5"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/rahatfood/public/" target="_blank"><b>http://localhost/rahatfood/public/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_112">
+		<td align="center">11</td>
+		<td align="center">16:59:24</td>
+		<td align="center">17:03:54</td>
+		<td colspan="5"><!--lang_stats_browser--> 3:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/rahatfood/public/" target="_blank"><b>http://localhost/rahatfood/public/</b></a></td>
+	</tr>
+
+			</table>
+			<br>
+		</td>
+	</tr>
+</table>
+<script type="text/javascript">
+function showInfoBox(_isp, _visits, _visits_day, _ip, _host, _id, _parent)
+{
+if(ibCurrent != _parent)
+{
+document.getElementById("info_box").innerHTML = "<strong>ID:</strong> " + _id + "<br><strong><!--lang_stats_isp-->:</strong> " + _isp + "<br><strong>IP:</strong> " +_ip + "<br><strong>Host:</strong> " +_host + "<br><strong><!--lang_stats_visits-->:</strong> " + _visits + "<br><strong><!--lang_stats_visits_today-->:</strong> " + _visits_day;
+assignPosition(document.getElementById("info_box"));
+document.getElementById("info_box").style.display = "block";
+ibCurrent = _parent;
+}
+else
+{
+document.getElementById("info_box").style.display = "none";
+ibCurrent = null;
+}
+}
+</script>
